@@ -12,8 +12,5 @@ youtokentome
 seaborn
 ipykernel
 ipython
-pyconll
-gensim==3.8.1
 wget
-livelossplot==0.5.3
 mauve-text
